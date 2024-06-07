@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "754020602780",
+    "firebase_url": "https://phone-book-database-dac27-default-rtdb.firebaseio.com",
+    "project_id": "phone-book-database-dac27",
+    "storage_bucket": "phone-book-database-dac27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754020602780:android:e674c8edf27709c1c1ee59",
+        "android_client_info": {
+          "package_name": "com.example.phonebookapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9HARraiOo31_5taxVr9iif4FXD08yBKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
