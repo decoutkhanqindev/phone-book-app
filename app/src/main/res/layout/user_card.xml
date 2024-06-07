@@ -36,9 +36,9 @@
                 android:layout_height="wrap_content"
                 android:text="@{user.phoneNumber}"
                 android:textSize="20sp"
+                app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintTop_toTopOf="parent"
-                app:layout_constrainteEnd_toEndOf="parent"
                 tools:ignore="HardcodedText" />
         </androidx.constraintlayout.widget.ConstraintLayout>
     </androidx.cardview.widget.CardView>
